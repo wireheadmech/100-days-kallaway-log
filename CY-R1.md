@@ -10,6 +10,7 @@ start somewhere.
 
 **Link to work:** 
 [SSIW](https://www.saysomethingin.com/welsh/1siw/1)
+
 **Vocabulary:**
 - I = dwi 
 - To want = isio 
@@ -26,6 +27,7 @@ round I hope to have all comments in Cymraeg.
 
 **Link to work:** 
 [SSIW](https://www.saysomethingin.com/welsh/1siw/2)
+
 **Vocabulary:**
 - Welsh = Cymraeg 
 - Because = achos 
@@ -33,10 +35,17 @@ round I hope to have all comments in Cymraeg.
 
 ### Day 3: November 26 2018, dydd Llun
 
-**Today's Progress**:
+**Today's Progress**: Executed dydd 3 from the website.
 	
-**Thoughts:** 
+**Thoughts:** Quite a few of these works I already knew and were stored in my
+brain, so they were quite easy to use again. The new words I gained were ones 
+that I really wanted to know, so that made it so much more fulfilling.
 
 **Link to work:** 
-[SSIW]()
+[SSIW](https://www.saysomethingin.com/welsh/1siw/3)
+
 **Vocabulary:**
+- Wales = Cymru 
+- And = a 
+- Language = iaith 
+- The language = yr iaith
