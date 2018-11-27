@@ -49,3 +49,26 @@ that I really wanted to know, so that made it so much more fulfilling.
 - And = a 
 - Language = iaith 
 - The language = yr iaith
+
+### Day 4: November 27 2018, dydd Mawrth
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to Work**
+[SSIW](https://www.saysomethingin.com/welsh/1siw/4)
+
+**Vocabulary:**
+- To continue = parhau<br />
+
+### Day 5: November 28 2018, dydd Iau
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to Work**
+[SSIW](https://www.saysomethingin.com/welsh/1siw/5)
+
+**Vocabulary:**
