@@ -136,14 +136,34 @@ become quite the difficulty that I was initially expecting.
 *Examples:*
 - Dw i isio siarad Cymraeg = I want to speak Welsh
 
-### Dydd 8: Rhagfyr 1 2018, dydd Satwrn
+### Dydd 8: Rhagfyr 3 2018, dydd Llun
 
 **Today's Progress:**
-
+I was able to listen to today's lesson on my happy laptop, but not until I set
+up a new music setup on the system.
 
 **Thoughts:**
+As I am going through the lesson, I am constantly speaking to my little one in
+Gymraeg which helps me use it in real life situations. That also helps it to be
+heard in the house, so it will all become much more easier to understand later
+when it is in much more use. 
 
 **Link To Work:**
 [SSIW](https://www.saysomethingin.com/welsh/level1/challenge2)
 
 **Vocabulary:**
+
+- dweud = to say
+- rhywbeth = something
+- yn y Gymraeg = in Welsh
+- beth (be’) = what
+- ond = but
+- rŵan = now
+- o’n i isio = I wanted well
+- i mi = I’d better
+- a/ac = and
+- hyd yn hyn = yet
+
+*Examples:*
+- Dw i isio dweud rhywbeth yn y Gymraeg = I want to say something in Welsh
+- Ond fedra’ i ddim cofio sut i ddweud beth dw i isio dweud = But I can’t remember how to say what I want to say
