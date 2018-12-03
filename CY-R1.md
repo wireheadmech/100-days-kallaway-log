@@ -68,12 +68,12 @@ to speak to my family in our native language.
 **Vocabulary:**
 - To continue = parhau<br />
 
-### Day 5: November 28 2018, dydd Iau
+### Day 5: November 28 2018, dydd Mercher
 
 **Today's Progress:**
 Today was the last of the daily lessons that SSiW provides, so now I am going to
 have to think of something, which will most likely involve getting the full
-subscription, which I am not too broken up about.
+subscriptions which I am not too broken up about.
 
 **Thoughts:**
 I will most likely get the full learning package tonight. We'll see.
@@ -83,3 +83,67 @@ I will most likely get the full learning package tonight. We'll see.
 
 **Vocabulary:**
 No listed vocabulary for today.
+
+### Dydd 6: November 29 2018, dydd Iau
+
+**Today's Progress:**
+Today was the recap day, and I managed to both complete it and purchase the
+full subscription to the lessons.
+
+**Thoughts:**
+I am very excited to get into the lessons and progress more. I have also been
+exposing myself to more media in Cymraeg.
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/1siw)
+
+**Vocabulary:**
+No listed vocabulary for today.
+
+### Dydd 7: Tachwedd 30 2018, dydd Gwener
+
+**Today's Progress:**
+Completed Level 1, Challenge 1.
+
+**Thoughts:**
+I have done this particular challenge several times, so it was really a breeze
+for me. I fully expect to have a few much easier days and then things will pick
+up. But since I am also immersing myself more in Cymraeg media, this should not
+become quite the difficulty that I was initially expecting.
+
+**Link To Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge1)
+
+**Vocabulary:**
+
+- isio = to want
+- dw i isio = I want
+- siarad = to speak
+- Cymraeg = Welsh (the language)
+- dysgu = to learn
+- trio = to try
+- mynd = to go
+- dw i’n mynd i = I am going to
+- ymarfer = to practise
+- fedra’ i ddim = I can’t
+- cofio = to remember
+- sut = how
+- angen = to need
+- dw i angen = I need
+- dal = still
+- gwella = to improve
+
+*Examples:*
+- Dw i isio siarad Cymraeg = I want to speak Welsh
+
+### Dydd 8: Rhagfyr 1 2018, dydd Satwrn
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+**Link To Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge2)
+
+**Vocabulary:**
