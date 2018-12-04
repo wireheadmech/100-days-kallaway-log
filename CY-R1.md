@@ -139,14 +139,16 @@ become quite the difficulty that I was initially expecting.
 ### Dydd 8: Rhagfyr 3 2018, dydd Llun
 
 **Today's Progress:**
+
 I was able to listen to today's lesson on my happy laptop, but not until I set
 up a new music setup on the system.
 
 **Thoughts:**
+
 As I am going through the lesson, I am constantly speaking to my little one in
 Gymraeg which helps me use it in real life situations. That also helps it to be
 heard in the house, so it will all become much more easier to understand later
-when it is in much more use. 
+when it is in much more use.
 
 **Link To Work:**
 [SSIW](https://www.saysomethingin.com/welsh/level1/challenge2)
@@ -166,4 +168,39 @@ when it is in much more use.
 
 *Examples:*
 - Dw i isio dweud rhywbeth yn y Gymraeg = I want to say something in Welsh
-- Ond fedra’ i ddim cofio sut i ddweud beth dw i isio dweud = But I can’t remember how to say what I want to say
+- Ond fedra’ i ddim cofio sut i ddweud beth dw i isio dweud = But I can’t
+remember how to say what I want to say
+
+### Dydd 9: Rhagfyr 4 2018, dydd Mawrth
+
+**Today's Progress:**
+
+I completed Lesson 3, and it is still good and necessary. I am trying to do it
+more on autopilot so it will sink in subconsciously. That does seem to be working
+I find that I am rattling the words out about as soon as they are presented, which
+I think was the overall point.
+
+**Thoughts**
+
+My brain is melting. But in a fun and strange way.
+
+**Link To Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge3)
+
+**Vocabulary:**
+
+- dechrau = to start
+- dw i newydd = I’ve just
+- dw i wedi anghofio = I’ve forgotten
+- dw i wedi bod yn dysgu = I have been learning
+- am fis = for a month
+- dw i wedi bod yn siarad = I have been speaking
+- am tua mis = for about a month
+- o’n i’n trio = I was trying
+- bod = that [as in …that I need to…]
+- bo’ fi = that I [as in …that I need to…]
+
+*Examples:*
+- Dw i newydd ddechrau dysgu siarad Cymraeg = I’ve just started to learn to speak Welsh
+- O’n i’n trio dweud bo’ fi wedi bod yn dysgu Cymraeg am tua mis rŵan = I was trying to say that I have been learning Welsh for about a month now
+- Dw i wedi anghofio sut i ddweud rhywbeth = I’ve forgotten how to say something
