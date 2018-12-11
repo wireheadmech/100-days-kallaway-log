@@ -204,3 +204,116 @@ My brain is melting. But in a fun and strange way.
 - Dw i newydd ddechrau dysgu siarad Cymraeg = I’ve just started to learn to speak Welsh
 - O’n i’n trio dweud bo’ fi wedi bod yn dysgu Cymraeg am tua mis rŵan = I was trying to say that I have been learning Welsh for about a month now
 - Dw i wedi anghofio sut i ddweud rhywbeth = I’ve forgotten how to say something
+
+### Dydd 10: Rhagfyr 5 2018, dydd Mercher
+
+**Today's Progress:**
+None
+
+**Thoughts:**
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge4)
+
+**Vocabulary:**
+
+### Dydd 11: Rhagfyr 6 2018, dydd Iau
+
+**Today's Progress:**
+I was a bit late on this one, and ended up doing two sessions in one day.
+
+**Thoughts:**
+Still running on autopilot.
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge4)
+
+**Vocabulary:**
+
+- rhaid i mi = I must, I’ve got to
+- mwy = more
+- mae dal rhaid i mi = I still must, I’ve still got to
+- mae gen i = I’ve got, I have
+- mwynhau = to enjoy
+- y/yr = the
+- cyfle = chance
+- meddwl = to think
+- licio = to like
+- liciwn i = I would like
+- efo chdi = with you
+
+*Examples:*
+- Rhaid i mi ymarfer mwy = I must practise more
+- Dw i’n mwynhau dysgu Cymraeg ond mae dal rhaid i mi ymarfer siarad mwy = I enjoy learning Welsh but I still have to practise speaking more
+- Liciwn i ddweud bo’ fi newydd ddechrau siarad Cymraeg, ond dw i’n mwynhau ymarfer efo chdi = I would like to say that I have just started speaking Welsh, but I enjoy practising with you
+- Dw i’n meddwl bo’ fi angen y cyfle i siarad mwy = I think that I need the chance to speak more
+
+### Dydd 12: Rhagfyr 7 2018, dydd Gwener
+
+**Today's Progress:**
+
+I am re-doing the lesson. I am enjoying it, but I would just like to do it again.
+**Thoughts:**
+
+I am much more comfortable with the training sequences now, but I want to go and
+do this again so it sinks a little deeper.
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge4)
+
+**Vocabulary:**
+
+### Dydd 13: Rhagfyr 8 2018, dydd Sadwrn
+
+Nuttin'
+
+### Dydd 14: Rhagfyr 10 2018, dydd Llun
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+
+**Vocabulary:**
+
+- mi fedra’ i = I can
+- os medra’ i = if I can
+- dw i ddim yn siŵr = I’m not sure
+- rhywbeth arall = something else
+- unrhyw beth arall = anything else
+- mae’n = It is [mae hi’n / mae o’n]
+- diddorol = interesting
+- achos = because
+- stopio = to stop
+- dw i ddim isio = I don’t want
+- dw i’n meddwl bod hi’n ddiddorol = I think that it’s interesting
+
+*Examples:*
+- Mi fedra’ i gofio sut i ddeud beth dw i isio dweud = I can remember how to say what I want to say
+- A dwi ddim yn siwr beth o’n i’n trio deud = And I’m not sure what I was trying to say
+- Mae dal rhaid i mi ddeud rhywbeth arall = I’ve still got to say something else
+- Dw i newydd ddechrau dysgu Cymraeg achos mae’n ddiddorol = I’ve just started to learn Welsh because it’s interesting
+- Dw i ddim isio stopio rwan achos dwi’n meddwl bo hi’n ddiddorol = I don’t want to stop now because I think it’s interesting
+
+### Dydd 15, Rhagfyr 11 2018, dydd Mawrth
+
+**Today's Progress:**
+
+This lesson included a learning exercise. It certainly does help to hear and
+even be able to read a little bit is great as well.
+
+**Thoughts:**
+
+I am happy with the way that things are progressing, even though it can certainly
+be difficult at times.
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+
+**Vocabulary:**

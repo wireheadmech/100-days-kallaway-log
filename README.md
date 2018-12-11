@@ -6,3 +6,6 @@ The log of my 100 Days Of Code (to keep separate from main repo and let people f
 
 **100 Days of Cymraeg**
 [Round 1](CY-R1.md) - Nov 24, 2018 - whenever
+
+## Earned Certificates
+SoloLearn - Python3 - Dec 11, 2018
