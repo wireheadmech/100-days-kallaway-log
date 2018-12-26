@@ -7,5 +7,8 @@ The log of my 100 Days Of Code (to keep separate from main repo and let people f
 **100 Days of Cymraeg**
 [Round 1](CY-R1.md) - Nov 24, 2018 - whenever
 
+A break was taken in Round 1 from December , 2018 until January 3, 2019
+
 ## Earned Certificates
 SoloLearn - Python3 - Dec 11, 2018
+          - Javascript - Dec 18, 2018
