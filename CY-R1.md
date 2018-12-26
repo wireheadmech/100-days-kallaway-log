@@ -317,3 +317,48 @@ be difficult at times.
 [SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
 
 **Vocabulary:**
+
+Took a break and restarted in 2019:
+
+### Dydd 17, Rhagfyr 11 2018, dydd Mawrth
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+
+**Tweet OTD:**
+Day 17: #100DaysOfCymraeg
+
+
+**Vocabulary:**
+
+
+
+
+
+
+=======================
+
+### Dydd XX, Rhagfyr 11 2018, dydd Mawrth
+
+**Today's Progress:**
+
+This lesson included a learning exercise. It certainly does help to hear and
+even be able to read a little bit is great as well.
+
+**Thoughts:**
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+
+**Tweet OTD:**
+Day XX: #100DaysOfCymraeg
+
+
+**Vocabulary:**
