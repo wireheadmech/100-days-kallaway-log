@@ -11,4 +11,5 @@ A break was taken in Round 1 from December , 2018 until January 3, 2019
 
 ## Earned Certificates
 SoloLearn - Python3 - Dec 11, 2018
-          - Javascript - Dec 18, 2018
+
+SoloLearn - Javascript - Dec 18, 2018
