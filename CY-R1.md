@@ -317,3 +317,41 @@ be difficult at times.
 [SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
 
 **Vocabulary:**
+
+### Dydd 17, Ionawr 3 2019, dydd Iau
+
+**Today's Progress:**
+
+This was a healthy dose of grade A ass-kicking, but I picked it up again well enough. Now I know that a lot of these words are in fact sinking into my subconscious mind, and I can work with that.
+
+**Thoughts:**
+
+I am happy with the way that things are progressing, even though it can certainly
+be difficult at times.
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge6)
+
+**Vocabulary:**
+
+  - ti’n siarad = you speak
+  - ti’n ei siarad hi = you speak it
+  - da = good
+  - yn dda = well
+  - yn dda iawn = very well
+  - bo’ ti’n siarad / bo’ chdi’n siarad = that you speak
+  - ti angen = you need
+  - gwneud = to do
+  - eto = again
+  - gwneud eto = to do again
+  - ti’n gwneud = you’re doing ti
+  - wedi gwneud = you’ve done
+  - yn amlach = more often
+  - blwyddyn = year
+
+  **Examples:**
+  Dw i isio dweud bo fi’n meddwl bo ti’n siarad hi’n dda iawn – I want to say that I think that you speak it very well
+
+  Ti’n gwneud beth ti angen gwneud i siarad Cymraeg yn dda – You’re doing what you need to do to speak Welsh well
+
+  
