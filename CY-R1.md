@@ -318,6 +318,7 @@ be difficult at times.
 
 **Vocabulary:**
 
+<<<<<<< HEAD
 ### Dydd 17, Ionawr 3 2019, dydd Iau
 
 **Today's Progress:**
@@ -355,3 +356,49 @@ be difficult at times.
   Ti’n gwneud beth ti angen gwneud i siarad Cymraeg yn dda – You’re doing what you need to do to speak Welsh well
 
   
+=======
+Took a break and restarted in 2019:
+
+### Dydd 17, Rhagfyr 11 2018, dydd Mawrth
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+
+**Tweet OTD:**
+Day 17: #100DaysOfCymraeg
+
+
+**Vocabulary:**
+
+
+
+
+
+
+=======================
+
+### Dydd XX, Rhagfyr 11 2018, dydd Mawrth
+
+**Today's Progress:**
+
+This lesson included a learning exercise. It certainly does help to hear and
+even be able to read a little bit is great as well.
+
+**Thoughts:**
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+
+**Tweet OTD:**
+Day XX: #100DaysOfCymraeg
+
+
+**Vocabulary:**
+>>>>>>> 3548088eb3cd169214f6e16d039b86945d75727c
