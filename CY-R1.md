@@ -361,12 +361,14 @@ be difficult at times.
 
 **Today's Progress:**
 
+A challenge, as usual. But I still can sense more and more of it sinking in. I think perhaps it is all just a matter of applied continuance and everything will be just fine.
 
 **Thoughts:**
 
+Pleased but I wish I could do better.
 
 **Link to Work:**
-[SSIW](https://www.saysomethingin.com/welsh/level1/challenge5)
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge7)
 
 **Tweet OTD:**
 Day 18: #100DaysOfCymraeg
@@ -374,14 +376,65 @@ Day 18: #100DaysOfCymraeg
 
 **Vocabulary:**
 
+- ddudest ti = you said
+- beth ddudest ti / be’ ddudest ti = what you said
+- ti wedi bod yn dysgu = you have been learning
+- wyt ti wedi bod yn dysgu? / wyt ti ‘di bod yn dysgu? = have you been learning?
+- pa mor hir...? = how long...?
+- wnest ti ddechrau = you started
+- wythnos = week
+- wythnos yn ôl = a week ago
+- wnest ti ddechrau? = did you start?
+- pan = when
+- pryd? = when?
+
+**Examples:**
+
+- Ddudest ti rywbeth diddorol = You said something interesting
+- Dwi’n mynd i gofio be ddudest ti = I’m going to remember what you said
+- Wyt ti ‘di bod yn dysgu Cymraeg eto? = Have you been learning Welsh again?
+- Pa mor hir wyt ti ‘di bod yn siarad Cymraeg? = How long have you been speaking Welsh?
+- Wnest ti ddechrau dysgu mis yn ôl = You started to learn a month ago
 
 
 
+### Dydd 19, Ionawr 5 2019, dydd Mawrth
 
+**Today's Progress:**
+
+Progression can sometimes be a bit difficult. I had to accomplish the end of yesterday's as well as today back to back.
+
+**Thoughts:**
+
+Still crusin'.
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge8)
+
+**Tweet OTD:**
+Day 19: #100DaysOfCymraeg
+
+
+**Vocabulary:**
+
+- an fedri di...? = can you...?, could you...?
+- yn araf = slowly
+- ti isio = you want
+- wyt ti isio? = do you want?
+- lle? = where?
+- yn arafach = more slowly
+- bach yn arafach = a while more slowly
+- ti wedi dysgu / ti ‘di dysgu = you’ve learnt
+
+**Examples:**
+
+- Mi fedri di ddeud be ti ‘di gwneud = You could say what you’ve done
+- Fedri di ddeud o eto yn araf? = Could you say it again slowly?
+- Pryd wnest ti ddechrau siarad Cymraeg? = When did you start speaking Welsh?
 
 =======================
 
-### Dydd XX, Rhagfyr 11 2018, dydd Mawrth
+### Dydd XX, Ionawr 11 2019, dydd Mawrth
 
 **Today's Progress:**
 
@@ -399,4 +452,3 @@ Day XX: #100DaysOfCymraeg
 
 
 **Vocabulary:**
->>>>>>> 3548088eb3cd169214f6e16d039b86945d75727c
