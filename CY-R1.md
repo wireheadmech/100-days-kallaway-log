@@ -432,6 +432,44 @@ Day 19: #100DaysOfCymraeg
 - Fedri di ddeud o eto yn araf? = Could you say it again slowly?
 - Pryd wnest ti ddechrau siarad Cymraeg? = When did you start speaking Welsh?
 
+
+### Dydd 20, Ionawr 21 2019, dydd Mawrth
+
+**Today's Progress:**
+
+Dwi'n happus [to be] dysgu siarad Gymraeg.
+
+**Thoughts:**
+
+
+**Link to Work:**
+[SSIW](https://www.saysomethingin.com/welsh/level1/challenge9)
+
+**Tweet OTD:**
+Day 20: #100DaysOfCymraeg It is nice to be learning again. Getting back on the
+bike, so to speak.
+
+
+**Vocabulary:**
+
+- gwybod = to know
+- wyt ti angen? = do you need?
+- deall (dallt) = to understand
+- wnes i ddim = I didn’t
+- mae’n ddrwg gen i = I’m sorry
+- efo fi = with me
+- dw i isio i ti siarad = I want you to speak
+- helpu = to help
+- helpu chdi (dy helpu di) = to help you
+
+**Examples:**
+
+- Liciwn i wybod sut i ddeud o yn y Gymraeg = I’d like to know how to say it in Welsh
+- Mae’n ddrwg gen i ond wnes i ddim dallt be ddudest ti = I’m sorry, but I didn’t understand what you said
+- Fedri di ddeud o eto bach yn arafach? = Could you say it again a while more slowly?
+- Dw i isio helpu chdi i ddallt be’ dwi’n mynd i ddeud = I want to help you understand what I’m going to say
+- Dw i’n meddwl y liciwn i helpu chdi i ddallt bo’ fi dal angen ymarfer = I think I would like to help you understand that I still need to practice
+
 =======================
 
 ### Dydd XX, Ionawr 11 2019, dydd Mawrth
