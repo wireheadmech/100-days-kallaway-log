@@ -1,1 +1,318 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n## Log of Round 1 of #100DaysOfCode - beginning November 2018\n\n### Day 1: November 25 2018 - Sunday\n\n**Today's Progress:**\n\nSpent time building the initial HTML5 format of my primary website. At the\nmoment, it simply points to the blog, but I want a directional and informational\nsite that on one hand tells the things I want known about myself as well as\ndirects the viewer to the various sites and servers I have set up. I have\nalso learned how to connect font awesome to the site.\n\n**Thoughts:**\n\nFeels good to be back at coding.\n\n**Link to work:**\n\nSite is not live yet.\n\n**Two People I Reached Out To:**\n - [Nikita Rudenko](https://twitter.com/rdnkta)\n - [Andrew Bieber](https://twitter.com/andre3wB)\n\n### Day 2: November 26 2018 - Monday\n\n**Today's Progress:**\n\nStill working on the new website getting the structure together. Got a skeleton\ntogether and got it to serve on Chrome. Firefox not so much.\n\n**Thoughts:**\n\nIrritated and frustrated. But tomorrow will bring me more of a good\nchance to understand how this is all supposed to go together and get the grids\nright.\n\n**Link to work:**\nimages/R1-Day2-whatever the screenshot is.\n\n**Two People I Reached Out To:**\n - [Keenan Kunzelman](https://twitter.com/KeenanKunzelman)\n - [Adriaan Beiertz](https://twitter.com/abeiertz)\n\n### Day 3: November 27 2018 - Tuesday\n\n**Today's Progress:**\n\nI went back and started everything from scratch. I have a\nbetter framework than I had yesterday, although it all started out a bit\nfrustrating. Now I am using a video by Traversy Media to help walk me through\nthis, then I can tweak it later.\n\n**Thoughts:**\n\nI feel better now that I have something to follow, although it is\nshowing me some of the possible holes in FreeCodeCamp.\n\n**Link to work:**\n- [image](./images/R1-Day3-Screenshot_2018-11-27-Screenshot.png)\n\n**Two People I Reached Out To:**\n - [Paul Duvall UK](https://twitter.com/Paul_Duvall)\n - [Carlos Herver](https://twitter.com/herver_carlos)\n\n### Day 4: November 28 Wednesday\n\n **Today's Progress:**\n\n I finally have the quad section in! It is a rather big\n deal for me, as I was not able to get this to work for life, love, or money\n before. I am also trying to get more of my work shifted to *Tintern*, which is\n my HP Fedora 29 based laptop.\n\n **Thoughts:**\n\n This way of thinking is now beginning to take hold in my normal job and I am\n shifting my viewpoints to thinking more in code than the typical server admin\n thought. It is helping me analyze things. I have also discovered that for some\n reason Atom will not allow me to write in anything other than American English.\n Whatever.\n\n **Link to Work:**\n - [image](./images/R1-Day4-Screenshot_2018-11-28-Screenshot.png)\n\n **Two People I Reached Out To:**\n  - [Jordan Andrews](https://twitter.com/codingupastorm)\n  - [Orlando Paredes Hamsho](https://twitter.com/orliph)\n\n### Day 5: November 29 2018 - Thursday\n\n**Today's Progress:**\n\nI was able to create the other two pages for the website, and I also was able\nto spin up two new servers for a coming project. Of course, I also had to name\nthem after the two AI entities in Neuromancer.\n\n**Thoughts:**\n\nVery excited that I am getting things done, and I am beginning to see the added\nresults in my daily work as I am looking at problems and issues that arise from\na more code-related perspective.\n\n**Link to Work:**\n- [NULL](#)\n\n**Two People I Reached Out To:**\n - [Diane NZ](https://twitter.com/DianeCodedIt)\n - [Kate Lane NC](https://twitter.com/ZeroToCoder)\n\n### Day 6: November 30 2018 - Friday\n\n**Today's Progress:**\n\nFighting. Fighting. Fighting.\n\n**Thoughts:**\n\nTrying to build things.\n\n**Link to Work:**\n\n\n**Two People I Reached Out To:**\n- [James Jenkins](https://twitter.com/Jamesdroid1)\n- [Lindsey Fisher](https://twitter.com/LindMFisher)\n\n### Day 7: December 1 2018 - Saturday\n\n**Today's Progress:**\n\nI made a decision about my laptop today, and that has taken some of my time. I\nspent part of my time fighting with the laptop and trying to decide the final\ndisposition of it. Eventually I realised that maybe I should be putting my skills\nto work instead of whining about the operating system.\n\n**Thoughts:**\n\nI can totally do this and make this laptop what I want it to be, with all of the\nbells and whistles. It should no longer interrupt my coding, but should enhance\nit.\n\n**Link to Work:**\n- [Blog Post](https://blog.wireheadmechanist.com/?p=509)\n- [image](.images/2018-12-01-162934_1366x768_scrot.png)\n\n**Two People I Reached Out To:**\n- [Diulia Severgnini](https://twitter.com/thisisdiulia)\n- [Klaven Jones](https://twitter.com/KlavenJ)\n\n### Day 8: December 3 2018 - Monday\n\n**Today's Progress:**\n\nFurther progress in getting **reitoei** set up properly. A lot of this has had\nto incorporate learning configuration files as well as loading certain packages\nto handle things like sound and beautification. It also has been a learning\nprocess to get things like sound adjustment and getting more cli controls under\nmy belt.\n\n**Thoughts:**\n\nI am beginning to feel much better about all of this, and I fully realise that I\nwill have to get the laptop to a better state than my MacBook that belongs to my\nemployer. And I will be applying myself towards that for the next week as I\ncontinue to progress across the board. All of these different things will allow\nme to code things in the future that I would like to see on my system and use for\nmyself.\n\n**Link to Work:**\n\n- [Blog Post](https://blog.wireheadmechanist.com/?p=526)\n- [Image](./images/2018-12-03-023129_1366x768_scrot.png)\n\n**Two People I Reached Out To:**\n- [Peter Heyes](https://twitter.com/PeteHeyes)\n- [Benjamin Spak](https://twitter.com/benjaminspak)\n\n### Day 9: December 4 2018 - Tuesday\n\n**Today's Progress:**\n\nI am beginning to get more in my head again about how the certain systems are\nall laid out. While some of this programming has been web related and more for\nthe outside esoteric thing, I am really into it for the system programming. I\nhave created the beginnings of Rei, and I want her to be able to give me all of\nthe performance and edge that I am going to need. This is becoming an incredible\nadvancement in my technical evolution.\n\n**Thoughts:**\n\nAll I want to do now is code. Create. Build. And enjoy it all in the process. My\nwife keeps joking that Rei is my technology \"mistress\", and so I have to watch\nmy family time so it doesn't become necessarily true.\n\n**Link to Work:**\n\nNot yet, but soon.\n\n**Two People I Reached Out To:**\n\n- [Denis Buslkashvili](https://twitter.com/denibulkashvili)\n- [Rehman Coding](https://twitter.com/Rehman_coding)\n\n### Day 10: December 5 2018 - Wednesday\n\n**Today's Progress:**\n\nI have begun to find clearer direction to what I am seeking to do, and I wrote\na snippet on my dev blog about that. I am now thinking that I want to head in a\nPython3 direction with Rei, and stick with the Node.js coding with Scottie and\nDraigie, who are both Discord bots.\n\nI also discovered SoloLearn and I spent my hour learning the fundamentals of\nPython 3. So I knocked one module out, and I will probably do the same tonight\non my learning system at work.\n\n**Thoughts:**\n\nThere is really nothing I can do at this point other than head forward and learn\nthese coding languages in practise the best that I can and use them. I am already\nbeginning to feel it in my wrists, but that might be the way I am situated on\nthis laptop keyboard.\n\n**Link to Work:**\n\nStill on a holding pattern\n\n**Two People I Reached Out To:**\n\n- [Jen Gray](https://twitter.com/JeniGray84)\n- [Samuel Nicholls](https://twitter.com/SamuelNicholls_)\n\n### Day 11: December 6 2018 - Thursday\n\n**Today's Progress:**\n\nPurchased a Nook and loaded it with the first iteration of books. Also spent\nmore time working on SoloLearn.\n\n**Thoughts:**\n\nLiking the possibilities that are in front of me at this point. I am also\ngetting to the point where if the thought / thing / process is not useful to me\nat the time it is happening, I now start breaking it off and move on. That is\ndiscussion, web surfing, social media, there is certainly a change towards only things that are actually useful. I find that I am losing patience for any time\nwasters I do not fully intend to be engaged in.\n\n**Link to Work:**\n\nStill on a holding pattern\n\n**Two People I Reached Out To:**\n\n- []()\n- []()\n\n### Day 12: December 7 2018 - Friday\n\n**Today's Progress:**\n\n\n**Thoughts:**\n\n\n\n**Link to Work:**\n\nStill on a holding pattern\n\n**Two People I Reached Out To:**\n\n- [Jessica Abejar](https://twitter.com/_jessicode)\n- [Ridwan Oladipupo](https://twitter.com/OLADIPUPORIDW18)\n\n### Day 13: December 8 2018 - Saturday\n\n**Today's Progress:**\n\nPractise in both SoloLearn and FreeCodeCamp.\n\n**Thoughts:**\n\n\nI am feeling pretty good about the progress I am making. I am learning a good\ndeal about Python3 as well as getting a much more clear idea of what I plan to\naccomplish with the upcoming massive project.\n\n**Link to Work:**\n\nStill on a holding pattern\n\n**Two People I Reached Out To:**\n\n- [Jessica Abejar](https://twitter.com/_jessicode)\n- [Ridwan Oladipupo](https://twitter.com/OLADIPUPORIDW18)\n\n### Day 14: December 10 2018 - Monday\n\n**Today's Progress:**\nBegan using Pomodoro to get myself scheduled. Full plotting of system processes\nand mind-mapping with great progress on the python course.\n\n**Thoughts:**\n\nI am getting more excited to finally get so close to actually getting a paper\non something that isn't system administration or networking.\n\n**Link to Work:**\n\nStill on a holding pattern\n\n**Two People I Reached Out To:**\n\n- [Daniel Watson](https://twitter.com/wattzson)\n- [Hiro Nakae ](https://twitter.com/Hiro_Nakae)\n\n\n### Day 15: December 11 2018 - Tuesday\n\n**Today's Progress:**\nI DID IT! I have the certificate from my Python3 course! I am also able to\nunderstand the code I am looking at much better now and I think that the next\nstep is to begin playing with and generating code of my own.\n\n**Thoughts:**\nI can actually barely contain my excitement from this. It's a major thing, more\nthan HTML5 or CSS will be. This is the founding blocks of everything else I will\nbe working on from here on out.\n\n**Link to Work:**\n\n - [Certificate](./images/cert-1073-11912262.jpg)\n\n**Two People I Reached Out To:**\n\n- [Cláudio Bernardo](https://twitter.com/cbernnard)\n- [Ericka Bermúdez](https://twitter.com/erickabdz)\n\n\nInterstitial of forgotten crap.\n\n### Day 17: January 3 2019 - Thursday\n\n**Today's Progress:**\n\nI was able to accomplish several things on the casglu script today and begin it for public consumption. It is able to do the following things at the moment after a lot of fighting:\n\n  - create a log file\n  - grab the uname info\n  - lop the head off of top and deliver it\n  - grab iostat, vmstat, and sar on memory and CPU\n  - it grabs the nmcli stats from 5 commands and outputs them\n\nTomorrow I might work a little more on things like free and ip commands\n\n**Thoughts:**\n\nIt was a good start back into working on a daily basis, although a bit rushed since I haven't quite been in the swing of things like I thought that I was.\n\n**Link to Work:**\n\nbackdated:\n- [Certificate](./images/cert-1024-11912262.jpg)\n- [Certificate](./images/cert-1060-11912262.jpg)\n- [Certificate](./images/cert-1059-11912262.jpg)\n\ncurrent:\n- [blog post](https://annwn.wireheadmechanist.com/day-17-100-days-of-code/)\n\n**Tweet OTD:**\nDay 17: #100DaysOfCode Picking up where we left off on the challenge, except it is in the direction of a statistics and log-parsing system to ease my workload in bash. Today was working with sysstat and nmcli.\n\n**Two People I Reached Out To:**\n\n- [Cecilia Constantine](https://twitter.com/ceciliaconsta3)\n- [Kanjamad Bosel](https://twitter.com/bkanjamad)\n\n\n### Day 18: January 4 2019 - Friday\n\n**Today's Progress:**\nI finished my installation of node.js and npm on my laptop so I can code locally and push it all northbound when needed. It seems to make more sense than coding directly from the server. I will use that to execute the code.\n\n**Thoughts:**\n\nJust trying to get the opening things established.\n\n**Link to Work:**\n\n- [blog post](https://annwn.wireheadmechanist.com/day-18-100-days-of-code/)\n\n**Tweet OTD:**\nDay 18: #100DaysOfCode Today was working with node.js and getting the beginnings of two bots put back together. I also learned to use .gitignore for credential files.\n\n**Two People I Reached Out To:**\n\n- [Neviar White](https://twitter.com/neviarwhite)\n- [Blanche Carstens](https://twitter.com/BlancheCarstens)\n\n\n### Day 20: January 7 2019 - Monday\n\n**Today's Progress:**\n\nToday was work on the internal binary. I found several issues, as well as the possibility that the binaries I am executing in the scripting are actually aliased to begin with, which would make the code I am scripting less apt to work correctly. I am going to have to find a way to force the pure binary to fire off rather than the doctored one.\n\n**Thoughts:**\n\nI was able to make some kind of progress, which is good.\n\n**Link to Work:**\n\n- [blog post](https://annwn.wireheadmechanist.com/day-20-100-days-of-code/)\n\n**Tweet OTD:**\nDay 20: #100DaysOfCode I learned today that sometimes people sneak in an alias into systems, and that is not your friend. Good while using at the command line, painful when executing scripting.\n\n**Two People I Reached Out To:**\n\n- [Brice Ayres](https://twitter.com/codelife_io)\n- [Camille Schori](https://twitter.com/camilleschori)\n\n\n### Day 21: January 16 2019 - Wednesday\n\n**Today's Progress:**\n\nI have added mail detection functionality to the script in order to help the operator understand the current state of the mail system and to know if spam is being sent by a specific customer.\n\n**Thoughts:**\n\nThis was spawned by an experience that I had last night, and since I didn't want to lose the knowledge I had garnered, I decided to put it into the script.\n\n**Link to Work:**\n\n- []()\n\n**Tweet OTD:**\nDay 21: #100DaysOfCode Today was about mass mail queue detection and being able to see immediately if a specific customer is generating too many emails than would be acceptable.\n\n**Two People I Reached Out To:**\n\n- [Jacob Makau](https://twitter.com/african__coder)\n- [Rina Parsegian](https://twitter.com/RinaParsegian)\n\n\n### Day 22: January 17 2019 - Thursday\n\n**Today's Progress:**\n\nCompleted my first project for FreeCodeCamp, which was a tribute page for Fr. Thomas Merton, OCSO.\n\n**Thoughts:**\n\n\n**Link to Work:**\n\n- [gist](https://codepen.io/wirehead/pen/vvMrbO)\n\n**Tweet OTD:**\nDay 22: #100DaysOfCode Completed my first project for FreeCodeCamp, which was a tribute page for Fr. Thomas Merton, OCSO.\nhttps://codepen.io/wirehead/pen/vvMrbO\n\n**Two People I Reached Out To:**\n\n- [ ](https://twitter.com/)\n- [ ](https://twitter.com/)\n\n### Day 23: June 18 2019 - Tuesday\n\n**Today's Progress:**\nTrying to get back into the swing of things on coding. I have a new site, and the CSS on that was painful. My surgery is not complete yet. \n\n**Thoughts:**\nStill trying to get a handle on how I'm proceeding, but I guess that any progress works.\n\n**Link to Work:**\n\n- [WHM Website](https://wireheadmechanist.com)\n\n**Tweet OTD:**\nDay 23: #100DaysOfCode New(ish) site, fighting with CSS, learning Taiga, and listening to enhancement requests for my bots like it's a bad radio station.\n\n**Two People I Reached Out To:**\n\n- [Phumrapee Limpianchop](https://twitter.com/rayriffy)\n- [Lucie Vrsovska](https://twitter.com/lucie_vrs)\n\n\n### Day 24: June 19 2019 - Wednesday\n\n**Today's Progress:**\nStarted with The Odin Project, and right now it is many of the things that I already knew, except I did learn a really cool cut and paste function that I had not known in the 25 years I've been working with Linux. maybe it wasn't there before?\n\n**Thoughts:**\nLittle pieces of things that are better still are worth something.\n\n**Link to Work:**\n\n- [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/html-and-css-basics?ref=lnav)\n\n**Tweet OTD:**\nDay 24: #100DaysOfCode Began working with The Odin Project. It is supposedly a \"tough one\", but I probably need some tough love about right now when it comes to this stuff.\n\n**Two People I Reached Out To:**\n\n- [Olena](https://twitter.com/olena_vp)\n- [Rohit Das](https://twitter.com/TheRohitDas)\n\n\n### Day 25: June 20 2019 - Thursday\n\n**Today's Progress:**\nI learned a good bit about CSS today as well as the more important and pertinent Google Chrome Developer Tools. I had played with them for a while, but didn't quite understand them or all of the information I could milk from them. The video crash course from Traversy Media comes highly recommended.\n\nI am also looking at Bootstrap for the first time so there has been a lot of speculation on what I can use that for.\n\n**Thoughts:**\n\n\n**Link to Work:**\n\n- [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)\n\n**Tweet OTD:**\nDay 25: #100DaysOfCode Learned a lot about the Google Chrome Developer Tools and Bootstrap from Traversy Media. I highly recommend it. I can use it with this as well as my current sysadmin support job.\n\n**Two People I Reached Out To:**\n\n- [Somesh Panigrahi](https://twitter.com/SomeshPanigrah5)\n- [Deb ](https://twitter.com/thisisdebjyoti)\n\n\n### Day 26: June 21 2019 - Friday\n\n**Today's Progress:**\n\n\n**Thoughts:**\n\n\n**Link to Work:**\n\n- []()\n\n**Tweet OTD:**\nDay 26: #100DaysOfCode\n\n**Two People I Reached Out To:**\n\n- [ ](https://twitter.com/)\n- [ ](https://twitter.com/)\n\n==============================\n\n### Day XX: month 3 2019 - day\n\n**Today's Progress:**\n\n\n**Thoughts:**\n\n\n**Link to Work:**\n\n- []()\n\n**Tweet OTD:**\nDay XX: #100DaysOfCode\n\n**Two People I Reached Out To:**\n\n- [ ](https://twitter.com/)\n- [ ](https://twitter.com/)\n",
+			"file": "R1.md",
+			"file_size": 17625,
+			"file_write_time": 132055314770421479,
+			"settings":
+			{
+				"buffer_size": 17637,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/wirehead/macOS-Simple-KVM/basic.sh",
+			"settings":
+			{
+				"buffer_size": 1159,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/wirehead/odin_on_rails/my_first_rails_app/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/wirehead/odin_on_rails/git_test/README.md",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "R1.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16803,
+								16803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 9142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/wirehead/macOS-Simple-KVM/basic.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1102,
+								1102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/wirehead/odin_on_rails/my_first_rails_app/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/wirehead/odin_on_rails/git_test/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "R1.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
